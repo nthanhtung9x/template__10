@@ -134,6 +134,11 @@
     .memory__item {
         min-width: 50%;
     }
+
+    .video__teach {
+        width: 90%;
+        height: 30rem;
+    }
 }
 
 /* Tablet - PC low resolution */
@@ -281,6 +286,11 @@
 
     .food__item > img { 
         object-fit: cover;
+    }
+
+    .video__teach {
+        width: 90%;
+        height: 40rem;
     }
 }
 /* PC large resolution*/
@@ -512,5 +522,10 @@
     
     .food__item > img {
         object-fit: cover;
+    }
+
+    .video__teach {
+        width: 70%;
+        height: 50rem;
     }
 }

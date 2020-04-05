@@ -740,3 +740,10 @@
     100%{transform: rotate(360deg);opacity: 0;}
 
 }
+
+/* video */
+.video__teach {
+    width: 60%;
+    height: 40rem; 
+    margin: 24px auto;
+}
